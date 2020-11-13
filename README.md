@@ -85,17 +85,17 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/google-cloud/google-cloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vs-code/vs-code-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/327/36/png-transparent-google-cloud-platform-cloud-computing-google-app-engine-amazon-web-services-cloud-computing-angle-rectangle-cloud-computing.png" alt="Google Cloud Platform" width="40" height="40"/>
+    <img src="https://wakatime.com/static/img/editor-icons/intellij-idea-128.png" alt="Intellij" width="40" height="40"/>
+    <img src="https://wakatime.com/static/img/editor-icons/vs-code-128.png" alt="VS Code" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
 #### Analysis
 <!-- <img height="150" src="https://github.com/kk0917/kk0917/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
-<details>
-  <summary>Other Statics</summary>
-  <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+
 **🐱 My Github Data** 
 
 ...
@@ -122,4 +122,3 @@
 
 
 <!--END_SECTION:waka-->
-</details>
