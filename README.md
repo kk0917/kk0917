@@ -94,12 +94,27 @@
 <!-- <img height="150" src="https://github.com/kk0917/kk0917/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
 
+**🐱 My Github Data** 
+
+...
+
+**I'm an Early 🐤** 
+
+...
+
+📅 **I'm Most Productive on Sunday** 
+
+...
+
+📊 **This Week I Spent My Time On** 
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   30 hrs 59 mins  ██████████████████████▓░░   91.11 % 
-TypeScript   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-HTML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
 <!--END_SECTION:waka-->
+
+**I Mostly Code in Vim script** 
+
+...
+
+**Timeline**
+
+...
