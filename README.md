@@ -110,11 +110,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 49 mins   ██████████████████░░░░░░░   71.59 % 
-JavaScript   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Scala        1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript   7 hrs 44 mins   ██████████████▓░░░░░░░░░░   59.00 % 
+Scala        3 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 % 
+Other        49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Properties   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 <!--END_SECTION:waka-->
 
