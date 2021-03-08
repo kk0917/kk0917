@@ -110,11 +110,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala        11 hrs 43 mins  █████████▓░░░░░░░░░░░░░░░   38.51 % 
-JavaScript   5 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
-HTML         3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-TypeScript   3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Other        2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Scala        9 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   32.94 % 
+JavaScript   5 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 % 
+TypeScript   4 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+HTML         3 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Other        2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
 <!--END_SECTION:waka-->
 
