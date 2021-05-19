@@ -110,11 +110,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala        5 hrs 44 mins   ████████████▓░░░░░░░░░░░░   51.22 % 
-Other        2 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
-TypeScript   1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JavaScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Git Config   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Scala        5 hrs 12 mins   █████████████░░░░░░░░░░░░   52.52 % 
+Other        2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.03 % 
+TypeScript   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JavaScript   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
