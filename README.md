@@ -110,7 +110,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Scala        24 mins         ███████████████████████▒░   93.46 % 
+TypeScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 <!--END_SECTION:waka-->
 
