@@ -110,8 +110,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala        43 mins         ███████████████▓░░░░░░░░░   62.21 % 
-JavaScript   25 mins         █████████▒░░░░░░░░░░░░░░░   37.26 % 
+JavaScript   17 mins         ████████████████████████▒   97.95 % 
 ```
 <!--END_SECTION:waka-->
 
