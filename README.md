@@ -110,7 +110,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala   3 mins          ████████████████████▓░░░░   82.49 % 
+
 ```
 <!--END_SECTION:waka-->
 
