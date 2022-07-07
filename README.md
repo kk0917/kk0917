@@ -111,9 +111,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 30 mins   ███████████████░░░░░░░░░░   59.64 %
-Bash         1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Other        1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+TypeScript   7 hrs 42 mins   ██████████████▒░░░░░░░░░░   56.97 %
+Bash         1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Terraform    1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Other        1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
 ```
 
 <!--END_SECTION:waka-->
