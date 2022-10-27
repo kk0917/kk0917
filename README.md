@@ -111,9 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         13 mins         █████████████████▓░░░░░░░   71.29 %
-Git Config   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
