@@ -111,7 +111,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Solidity     46 mins         ███████████████▓░░░░░░░░░   62.43 %
+JavaScript   26 mins         █████████░░░░░░░░░░░░░░░░   35.79 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
