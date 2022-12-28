@@ -111,7 +111,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         17 mins         ████████░░░░░░░░░░░░░░░░░   32.52 %
+Rust         15 mins         ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+TypeScript   12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+CSS          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
