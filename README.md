@@ -111,8 +111,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust         15 mins         ███████████████████████▒░   93.27 %
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Rust         1 min           ████████████████░░░░░░░░░   63.61 %
+TypeScript   1 min           █████████░░░░░░░░░░░░░░░░   36.39 %
 ```
 
 <!--END_SECTION:waka-->
