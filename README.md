@@ -111,8 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust         1 min           ████████████████░░░░░░░░░   63.61 %
-TypeScript   1 min           █████████░░░░░░░░░░░░░░░░   36.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
