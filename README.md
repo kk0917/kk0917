@@ -111,11 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust         1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   35.15 %
-JSON         49 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-TypeScript   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Bash         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Other        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
