@@ -111,10 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 min           ██████████████▓░░░░░░░░░░   58.34 %
-JSON         0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-TOML         0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
