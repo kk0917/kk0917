@@ -111,8 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 1 min      ████████████████████████▒   97.61 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
