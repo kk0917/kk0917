@@ -111,8 +111,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 16 mins   █████████████████████████   99.92 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Rust   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
