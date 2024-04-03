@@ -111,11 +111,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Git Config   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
-Solidity     9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-Rust         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Markdown     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Solidity     9 mins          ████████████████████████▓   99.00 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
