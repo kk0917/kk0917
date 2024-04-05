@@ -111,7 +111,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   30 mins         ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Solidity     29 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Markdown     21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Git Config   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 ```
 
 <!--END_SECTION:waka-->
