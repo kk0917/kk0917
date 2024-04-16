@@ -111,10 +111,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 mins         ███████████████████████░░   91.64 %
-Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Solidity     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Git Config   0 secs          █████████████▒░░░░░░░░░░░   53.58 %
+TypeScript   0 secs          ███████████▓░░░░░░░░░░░░░   46.42 %
 ```
 
 <!--END_SECTION:waka-->
