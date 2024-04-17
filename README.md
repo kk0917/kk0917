@@ -111,8 +111,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          █████████████▒░░░░░░░░░░░   53.58 %
-TypeScript   0 secs          ███████████▓░░░░░░░░░░░░░   46.42 %
+Git Config   0 secs          ███████████████████████▒░   93.56 %
+TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
